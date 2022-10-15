@@ -978,3 +978,5 @@ function Library:new(options)
 
     return Library
 end
+
+return Library
